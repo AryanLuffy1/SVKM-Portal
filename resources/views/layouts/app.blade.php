@@ -60,14 +60,14 @@
                     
                     <hr class="border-secondary mt-4 mb-3">
                     <h6 class="text-uppercase text-muted fw-bold mb-3 small px-2">Previous Labs</h6>
-                    <a href="{{ route('labs.show', 2) }}" class="small">📊 Lab 2: Dashboard</a>
-                    <a href="{{ route('labs.show', 3) }}" class="small">🔐 Lab 3: Portal</a>
-                    <a href="{{ route('labs.show', 4) }}" class="small">🛡️ Lab 4: Privacy</a>
-                    <a href="{{ route('labs.show', 5) }}" class="small">🪪 Lab 5: ID Gen</a>
-                    <a href="{{ route('labs.show', 6) }}" class="small">📝 Lab 6</a>
-                    <a href="{{ route('labs.show', 7) }}" class="small">📱 Lab 7</a>
-                    <a href="{{ route('labs.show', 8) }}" class="small">🌐 Lab 8</a>
-                    <a href="{{ route('labs.show', 9) }}" class="small">✉️ Lab 9: Forms</a>
+                    <a href="{{ route('labs.show', 2) }}" class="small">📊 Dashboard</a>
+                    <a href="{{ route('labs.show', 3) }}" class="small">🔐 Portal</a>
+                    <a href="{{ route('labs.show', 4) }}" class="small">🛡️ Privacy</a>
+                    <a href="{{ route('labs.show', 5) }}" class="small">🪪 ID Gen</a>
+                    <a href="{{ route('labs.show', 6) }}" class="small">🧠 BrainStorming</a>
+                    <a href="{{ route('labs.show', 7) }}" class="small">📚 Offered Courses</a>
+                    <a href="{{ route('labs.show', 8) }}" class="small">🎓 Alumni Directory</a>
+                    <a href="{{ route('labs.show', 9) }}" class="small">✉️ Forms</a>
                 </nav>
             </div>
 
